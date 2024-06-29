@@ -33,7 +33,7 @@
  g)Creating a Pull Request.
                                                                               
  
-                                                                              AGILE METHADOLOGIES
+                                                                      AGILE METHADOLOGIES
 
 A session based on agile methodologies was taken.
 
@@ -42,7 +42,7 @@ The significance of agile methods was discussed. Some of its applications and ex
 The session included some doubts related to how Trento implements Agile methods in the working field.
 
     
-                                                                          DATABASE MANAGMENT SYSTEM: POSTGRESQL
+                                                      DATABASE MANAGMENT SYSTEM: POSTGRESQL
 
 The next session was postgresql.
 
