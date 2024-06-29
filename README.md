@@ -19,6 +19,7 @@
  e) Committing Changes
  f) Pushing Changes to GitHub
  g)Creating a Pull Request.
+                                                                              
                                                                               AGILE METHADOLOGIES
 A session based on agile methodologies was taken.
 The significance of agile methods was discussed. Some of its applications and examples were covered.
