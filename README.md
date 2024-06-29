@@ -25,7 +25,7 @@ The significance of agile methods was discussed. Some of its applications and ex
 The session included some doubts related to how Trento implements Agile methods in the working field.
 
     
-                                                                              DATABASE MANAGMENT SYSTEM: POSTGRESQL
+                                                                          DATABASE MANAGMENT SYSTEM: POSTGRESQL
 The next session was postgresql.
 The session started with an introduction to database.
 It included topics like schema, entity, attribute, relationship among entities, different type of keys.
