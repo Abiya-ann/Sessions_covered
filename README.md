@@ -19,7 +19,7 @@
  e) Committing Changes
  f) Pushing Changes to GitHub
  g)Creating a Pull Request
-                                                                              Agile Methodologies
+                                                                              AGILE METHADOLOGIES
 A session based on agile methodologies was taken.
 The significance of agile methods was discussed. Some of its applications and examples were covered.
 The session included some doubts related to how Trento implements Agile methods in the working field.
