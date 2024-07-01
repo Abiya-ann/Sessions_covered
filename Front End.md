@@ -1,6 +1,6 @@
-                                                     FRONT END
+# FRONT END
 
-a) HTML:
+## a) HTML:
 
 Structure of Hyper Text Markup Language was introduced.
 
@@ -8,7 +8,7 @@ Basic HTML tags were discussed with examples.(eg: tags for heading, links, image
 
 HTML table, HTML list, and form was explained with examples.
 
-b) CSS:
+## b) CSS:
 
 Cascading Style Sheets is used to improve the presentation of an HTML document.
 
@@ -22,7 +22,7 @@ Colour formats used in CSS was also shown
 
 Session ended with the application of css on the previously created HTML form.
 
-c) Javascript Basics:
+## c) Javascript Basics:
 
 Javascript basics were introduced in the next session.
 
@@ -30,7 +30,7 @@ Array declarations and object declarations were explained with examples.
 
 It was ended with Javascript form handling.
 
-d) React:
+## d) React:
 
 The next session was an intoduction to React.
 
