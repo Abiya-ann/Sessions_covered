@@ -34,6 +34,10 @@ g)Creating a Pull Request.
 
 A session based on agile methodologies was taken.
 
-The significance of agile methods was discussed. Some of its applications and examples were covered.
+The significance of agile methods was discussed. 
 
-The session included some doubts related to how Trento implements Agile methods in the working field.
+Agile pyramid was discussed. Some of its applications and examples were covered.
+
+The session included some doubts related to how Tarento implements Agile methods in the working field.
+
+Some methods like Waterfall model, Scrum, Kanban was discussed.
