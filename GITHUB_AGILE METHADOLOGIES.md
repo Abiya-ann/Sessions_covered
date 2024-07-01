@@ -1,4 +1,4 @@
-                                                                              # GITHUB
+                                                                               GITHUB
 
 First session was an itroduction to the Github. The session discussed some activities that can be done while creating a repository. It started with creating a Github account followed by how to create a repository, how to fork a repository, how to clone a forked repository. Push changes, pull request, creating branch was also taught. Two tasks were assigned after the completion of the Github session:
 
