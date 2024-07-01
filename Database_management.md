@@ -1,4 +1,4 @@
-                                                  DATABASE MANAGMENT SYSTEM: POSTGRESQL
+# DATABASE MANAGMENT SYSTEM: POSTGRESQL
 
 The next session was postgresql.
 
@@ -20,7 +20,7 @@ Mapping the entities was also shown in the session.
 
 The session was concluded with a task.
 
-Task: Create an ER diagram for Employee Management System
+## Task: Create an ER diagram for Employee Management System
 
 *Set up Postgresql to create a database for the ER diagram.
 
