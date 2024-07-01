@@ -22,3 +22,22 @@ How to use the product life cycle was discussed.
 ##### Product Roadmap process and Product Creation process were illustrated.
 
 Factors that affect the product life cycle is explained.
+
+# BUSINESS ANALYSIS
+
+A session on business analysis was conducted.
+
+Business Analysis helps in the betterment of business.
+
+BA techniques include common business tools like SWOT and PESTLE analysis.
+
+### SWOT:
+Helps to identify the business strengths, weaknesses, opportunities, and threats.
+
+### PESTLE
+Helps in determining five facors in business: political, economic, social, technological, environmental and legal.
+
+The significance and benefits of business analysis was discussed.
+
+
+
